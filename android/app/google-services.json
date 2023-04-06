@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "716870757141",
+    "project_id": "maclay-multi-store-9569a",
+    "storage_bucket": "maclay-multi-store-9569a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716870757141:android:c3e1d8c2242445cd9d171c",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.maclay_multi_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716870757141-2eivgcmi8e1099r7hf0mtd488mvm7l6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDumUrLQ8aTAgiyjTJJjUYgIqmP3INFTYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716870757141-2eivgcmi8e1099r7hf0mtd488mvm7l6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716870757141:android:8b9f974ff2c793689d171c",
+        "android_client_info": {
+          "package_name": "com.maclay.maclay_multi_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716870757141-25k33cuu6uogstmj9r1q6ihtdggcn10k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maclay.maclay_multi_store",
+            "certificate_hash": "ff5ad6d3b67d7363b95604bb414f9a7ae4582342"
+          }
+        },
+        {
+          "client_id": "716870757141-2eivgcmi8e1099r7hf0mtd488mvm7l6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDumUrLQ8aTAgiyjTJJjUYgIqmP3INFTYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716870757141-2eivgcmi8e1099r7hf0mtd488mvm7l6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
